@@ -1,0 +1,4 @@
+CategoryDao=dao.impl.CategoryDaoImpl
+BookDao=dao.impl.BookDaoImpl
+OrderDao=dao.impl.OrderDaoImpl
+UserDao=dao.impl.UserDaoImpl
